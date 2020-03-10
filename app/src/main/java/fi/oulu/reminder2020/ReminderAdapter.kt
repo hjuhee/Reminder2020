@@ -51,3 +51,4 @@ class ReminderAdapter(context: Context, private val list: List<Reminder>) : Base
         return list.size
     }
 }
+//Lab07
